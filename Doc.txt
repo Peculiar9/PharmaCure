@@ -1,0 +1,9 @@
+I would have names it readme but....I don't knwo i hope you like it this way.
+I dojnt Know which DB you will like to use But you can fix that using a nuget package and in the startup.CS,
+I commented it there
+There are 7 tables in all.
+All models have there Primary Key and PharmBranch has a Fk
+But i would have loved to inherit Pharmacy From PharmBranch but i just thought it would be safer for Unit testing.
+The default routing is Index. You know that :)
+And how do i get paid?
+Thanks #peace
